@@ -19,3 +19,7 @@ The Workforce Information System is designed to manage employee data and daily o
 - Leave Management
 - Payroll Management
 
+## Status
+
+Week 1 - In Progress
+
