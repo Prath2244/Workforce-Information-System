@@ -234,5 +234,5 @@ This project is licensed under the MIT License – see the [LICENSE](LICENSE) fi
 
 ---
 
-**Built with ❤️ by [Your Name](https://github.com/yourusername)**
+**Built with ❤️ by [Prathmesh M](https://github.com/yourusername)**
 *Special thanks to the Infotact Technical Internship Program for the project vision.*
