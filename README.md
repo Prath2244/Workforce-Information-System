@@ -170,8 +170,6 @@ All endpoints (except `/auth/*`) require a **Bearer token** in the `Authorizatio
 
 ## 📸 Screenshots
 
-*(Add actual screenshots of your application here)*
-
 - **Dashboard**
   ![Dashboard](./screenshots/dashboard.png)
 
